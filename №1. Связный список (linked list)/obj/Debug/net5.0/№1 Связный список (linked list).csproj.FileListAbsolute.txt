@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\bin\Debug\net5.0\№1 Связный список (linked list).exe
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\bin\Debug\net5.0\№1 Связный список (linked list).deps.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\bin\Debug\net5.0\№1 Связный список (linked list).runtimeconfig.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\bin\Debug\net5.0\№1 Связный список (linked list).runtimeconfig.dev.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\bin\Debug\net5.0\№1 Связный список (linked list).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\bin\Debug\net5.0\ref\№1 Связный список (linked list).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\bin\Debug\net5.0\№1 Связный список (linked list).pdb
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\№1 Связный список (linked list).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\№1 Связный список (linked list).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\№1 Связный список (linked list).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\№1 Связный список (linked list).AssemblyInfo.cs
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\№1 Связный список (linked list).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\№1 Связный список (linked list).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\ref\№1 Связный список (linked list).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\№1 Связный список (linked list).pdb
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№1 Связный список (linked list)\obj\Debug\net5.0\№1 Связный список (linked list).genruntimeconfig.cache

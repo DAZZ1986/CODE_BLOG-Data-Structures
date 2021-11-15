@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\bin\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).exe
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\bin\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).deps.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\bin\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).runtimeconfig.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\bin\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).runtimeconfig.dev.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\bin\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\bin\Debug\net5.0\ref\№4 Очередь, Дек (Queue, Deque).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\bin\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).pdb
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).AssemblyInfo.cs
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\ref\№4 Очередь, Дек (Queue, Deque).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).pdb
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№4. Очередь, Дек (Queue, Deque)\obj\Debug\net5.0\№4 Очередь, Дек (Queue, Deque).genruntimeconfig.cache

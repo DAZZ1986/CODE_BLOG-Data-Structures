@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\bin\Debug\net5.0\№2. Стек (stack).exe
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\bin\Debug\net5.0\№2. Стек (stack).deps.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\bin\Debug\net5.0\№2. Стек (stack).runtimeconfig.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\bin\Debug\net5.0\№2. Стек (stack).runtimeconfig.dev.json
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\bin\Debug\net5.0\№2. Стек (stack).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\bin\Debug\net5.0\ref\№2. Стек (stack).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\bin\Debug\net5.0\№2. Стек (stack).pdb
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\№2. Стек (stack).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\№2. Стек (stack).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\№2. Стек (stack).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\№2. Стек (stack).AssemblyInfo.cs
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\№2. Стек (stack).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\№2. Стек (stack).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\ref\№2. Стек (stack).dll
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\№2. Стек (stack).pdb
+D:\CODE\C#\repos\CODE_BLOG Data Structures\№2. Стек (stack)\obj\Debug\net5.0\№2. Стек (stack).genruntimeconfig.cache
